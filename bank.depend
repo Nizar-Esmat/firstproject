@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653069220 source:c:\users\elnoor\desktop\icpc\bank\main.cpp
+	<iostream>
+	<fstream>
+
